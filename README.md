@@ -1,4 +1,4 @@
-python
+Python
 ======
 
-Tulevia python harjoituksia varten.
+Tämä on python-harjoituksia varten.
